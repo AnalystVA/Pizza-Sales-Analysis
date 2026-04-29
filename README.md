@@ -1,8 +1,11 @@
 # Pizza-Sales-Analysis
 This Report contains Sales Analysis Project Using POWER BI and SQL
+
 Project Overview
+
 This Project analysis Pizza Sale Daily and monthly with respect to sizes and category
 And its Best and Worst Sellers.
+
 Preview
 DashBoard ScreenShot 1
 <img width="1362" height="752" alt="DashboardPage1" src="https://github.com/user-attachments/assets/faed9f5e-2720-4aff-bbd2-2fd34c2b1107" />
