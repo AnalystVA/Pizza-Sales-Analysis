@@ -5,4 +5,9 @@ This Project analysis Pizza Sale Daily and monthly with respect to sizes and cat
 And its Best and Worst Sellers.
 Preview
 DashBoard ScreenShot 1
+<img width="1362" height="752" alt="DashboardPage1" src="https://github.com/user-attachments/assets/faed9f5e-2720-4aff-bbd2-2fd34c2b1107" />
+
 DashBoard ScreenShot 2
+
+<img width="1352" height="747" alt="DashboardPage2" src="https://github.com/user-attachments/assets/509a9d0b-47f1-440e-a76d-9cee3e4e1cd2" />
+
